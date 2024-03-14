@@ -14,3 +14,13 @@ This project is the second phase of the development of [4951group13](https://git
 ## Parameters that need to be modified when using
 app.js File env: cloud environment ID  
 ![image](https://user-images.githubusercontent.com/109144157/235354431-0d0fd64c-3b06-466d-8a3a-b7996c88a5a4.png)
+
+## Demo
+*Sign in:*   
+![Sign in](example/sign%20in.png)  
+*Appointment:*   
+![Appointment](example/appointment.png)  
+*Home Page:*  
+![Home](example/homepage.png)  
+
+
